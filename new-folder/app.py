@@ -121,5 +121,4 @@ def predictp():
     return render_template("pro.html")
 
 
-if __name__ == "__main__":
-    app.run()
+
